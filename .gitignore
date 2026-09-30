@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter and tooling
+.ipynb_checkpoints/
+.ruff_cache/
+
+# Data, models and outputs created by notebooks
+data/
+outputs/
+checkpoints/
+*.safetensors
+*.bin
+gemma-*/
+tutor-reward-model/
+human_preferences*.csv
+human_ratings*.csv
+
+# Secrets
+.env
+
+# OS
+.DS_Store
