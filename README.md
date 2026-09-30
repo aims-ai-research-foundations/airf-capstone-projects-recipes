@@ -14,6 +14,8 @@ Every capstone follows the same roadmap, from the problem you want to solve to a
   <img src="assets/capstone-roadmap.gif" width="100%" alt="Capstone roadmap: 1. Define your problem statement. 2. Create your data card. 3. Develop your impact statement. 4. Conduct a stakeholder analysis. 5. Draft your governance blueprint. 6. Build your sustainability plan. 7. Share your work. 8. Review your full plan.">
 </p>
 
+Check out [Course 08](https://www.skills.google/paths/3135/course_templates/1557) on the Google DeepMind [AI Research Foundations](https://www.skills.google/paths/3135) curriculum to learn more about the capstone project development roadmap.
+
 ## 📚 Recipe Catalogue
 
 | # | Recipe | What you'll investigate | Core technique |
